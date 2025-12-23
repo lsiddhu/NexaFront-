@@ -1,0 +1,12 @@
+// from aos (animatate and scroll library) 
+use this line of code for scroll animation
+<div data-aos="fade-zoom-in"
+     data-aos-easing="ease-in-back"
+     data-aos-delay="300"
+     data-aos-offset="0">
+</div>
+
+//from spline 3d for the 3d robot 
+use this line of code 
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.12.28/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/KM7301GvYNKElR2E/scene.splinecode"></spline-viewer>
